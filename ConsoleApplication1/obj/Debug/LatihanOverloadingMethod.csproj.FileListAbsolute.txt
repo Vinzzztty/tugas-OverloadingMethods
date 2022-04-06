@@ -1,0 +1,5 @@
+D:\1. Kuliah\Semester 2\Pemrograman\Pertemuan 5\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\1. Kuliah\Semester 2\Pemrograman\Pertemuan 5\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\1. Kuliah\Semester 2\Pemrograman\Pertemuan 5\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\1. Kuliah\Semester 2\Pemrograman\Pertemuan 5\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\1. Kuliah\Semester 2\Pemrograman\Pertemuan 5\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
